@@ -1,0 +1,9 @@
+RESPALDO TRIAJE MEDICO - 2026-11-22 22:39:43
+Total pacientes: 6
+Riesgo|Nombre|Cedula|Sintoma
+15|María Fernanda Ruiz|10203040|Fiebre moderada
+25|Ana Lucía Gómez|52418963|Esguince de tobillo
+50|Carlos Mendoza|10984512|Dolor torácico leve
+60|Pedro Test|123|Tos
+80|Jorge Ramírez|80147258|Dificultad respiratoria
+95|Luis Eduardo Torres|79456123|Trauma craneoencefálico
